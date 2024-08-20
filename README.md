@@ -2,7 +2,7 @@
 
 1. big
 2. small
-3. 
-# **makes bold face**
+
+**makes bold face**
 
 ![my pic](WechatIMG153.jpeg)
